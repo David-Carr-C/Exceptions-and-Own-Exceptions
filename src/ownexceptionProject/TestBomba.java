@@ -1,4 +1,4 @@
-package homework;
+package ownexceptionProject;
 
 public class TestBomba {
     public static void main(String[] args) {

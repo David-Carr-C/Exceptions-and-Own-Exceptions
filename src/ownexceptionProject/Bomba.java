@@ -1,4 +1,4 @@
-package homework;
+package ownexceptionProject;
 
 public class Bomba {
     private int litrosEnDeposito;

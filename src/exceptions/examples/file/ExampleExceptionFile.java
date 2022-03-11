@@ -1,4 +1,4 @@
-package exceptions.example.file;
+package exceptions.examples.file;
 
 
 import java.io.File;

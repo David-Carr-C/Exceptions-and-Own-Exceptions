@@ -1,4 +1,4 @@
-package exceptions.example;
+package exceptions.examples;
 
 public class ExampleMethodException {
 

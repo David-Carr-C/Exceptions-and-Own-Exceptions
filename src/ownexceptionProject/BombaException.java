@@ -1,4 +1,4 @@
-package homework;
+package ownexceptionProject;
 
 public class BombaException extends Exception{
     public BombaException(String message) {

@@ -1,4 +1,4 @@
-package exceptions.example;
+package exceptions.examples;
 
 public class ExampleOwnException extends Exception{
     public ExampleOwnException (String message) {

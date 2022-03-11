@@ -1,7 +1,7 @@
 package ownexceptions;
 
 public class Blueprint extends Exception {
-    //public static final long serialVersionUID = 700L; Hace falta??
+    //public static final long serialVersionUID = 700L; ??
 
     public Blueprint(String message) {
         super(message);
